@@ -1,6 +1,6 @@
-# Air Emissions Analysis around COVID-19 Dates
+# Analysis of CO2 Emmisions Around the COVID-19 Pandemic
 
-**A non-technical version, with a focus on research insights and visual representations, is available on my [website](https://markvarnaliy.com/projects/project1/).**
+<p><strong>A non-technical version, with a focus on research insights and visual representations, is available on my <a href="https://markvarnaliy.com/projects/project1/" target="_blank">website</a>.</strong></p>
 
 
 ## Requirements
