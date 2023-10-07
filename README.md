@@ -1,6 +1,6 @@
 # Air Emissions Analysis around COVID-19 Dates
 
-**A non-technical version, with a focus on research insights and visual representations, is available on my [website](markvarnaliy.com).**
+**A non-technical version, with a focus on research insights and visual representations, is available on my [website](https://markvarnaliy.com/projects/project1/).**
 
 
 ## Requirements
