@@ -10,7 +10,7 @@
 
 ## Installation
 
-Ensure you have Python 3.8.6 installed. If not, you can download it from the [official Python website](https://www.python.org/downloads/). 
+This project was developed and thoroughly tested using Python 3.8.6. While it is designed to work with this version, there's a good chance it will also be compatible with other Python 3.x versions. You can download it from the [official Python website](https://www.python.org/downloads/). 
 
 To install the required libraries, run the following command in your terminal or command prompt:
 
